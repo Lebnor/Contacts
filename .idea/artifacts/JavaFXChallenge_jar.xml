@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaFXChallenge:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaFXChallenge_jar</output-path>
+    <root id="archive" name="JavaFXChallenge.jar">
+      <element id="module-output" name="JavaFXChallenge" />
+    </root>
+  </artifact>
+</component>
